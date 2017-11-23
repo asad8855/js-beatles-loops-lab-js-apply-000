@@ -33,7 +33,7 @@ function iLoveTheBeatles(x){
     x++;
   }
   while (x<15);
-  return myArray[x];
+  return myArray;
 }
 
 iLoveTheBeatles(17);

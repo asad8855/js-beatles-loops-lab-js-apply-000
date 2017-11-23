@@ -32,9 +32,9 @@ function iLoveTheBeatles(x){
     myArray = ["I love the Beatles!"];
     x++;
   }
-  while (x<2);
+  while (x<15);
   return myArray;
 }
 
-iLoveTheBeatles(1);
+iLoveTheBeatles(7);
 

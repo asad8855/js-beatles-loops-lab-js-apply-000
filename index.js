@@ -30,7 +30,7 @@ function iLoveTheBeatles(y){
   var myArray=[];
   var x = 0;
   do{
-    myArray.Push("I love the Beatles!");
+    myArray.push("I love the Beatles!");
     x++;
   }
   while (x<15);

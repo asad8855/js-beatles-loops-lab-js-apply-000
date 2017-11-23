@@ -30,9 +30,10 @@ function iLoveTheBeatles(x){
   var myArray=[];
   do{
     myArray = ["I love the Beatles!"];
-    x+=1;
+    x++;
   }
   while (x<15);
+  return myArray;
 }
 
 iLoveTheBeatles(10);

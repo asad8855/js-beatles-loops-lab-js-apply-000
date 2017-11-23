@@ -36,5 +36,5 @@ function iLoveTheBeatles(x){
   return myArray;
 }
 
-iLoveTheBeatles(4);
+iLoveTheBeatles(2);
 
